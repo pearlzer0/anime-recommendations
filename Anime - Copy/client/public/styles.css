@@ -1,0 +1,45 @@
+
+body {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+}
+h3 {
+  color: rgb(157, 169, 196);
+  font-family: Garamond, serif;
+  font-size: 2.4rem;
+  font-weight: 1000;
+}
+h1 {
+  color: rgb(210, 166, 99);
+  text-shadow: 0px 4px 10px rgba(179, 147, 211, 0.8);
+  margin-top: 0;
+}
+p {
+  color: antiquewhite;
+  font-size: 1.5rem;
+}
+.bgImage {
+  background-image: url("https://w.wallha.com/ws/13/c4XI6NtS.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.animeImage {
+  
+  height: auto;
+  max-width:100%
+}
+form {
+  display: inline-block;
+}
+.cardSize {
+  width: 500px;
+  height: auto;
+  display: inline-block;
+}
+hr {
+border: 1px solid red
+}
+
+
